@@ -1,0 +1,40 @@
+_repo: Positions_62025
+_version: 0.0.1
+alternative_title:
+- Positions wherin those primitive circumstances be examined, which are necessary
+  for the training up of children, either for skill in their book, or health in their
+  body
+- Positions wherein those primitive circvmstances be examined, which are necessarie
+  for the training vp of children, either for skill in their booke, or health in their
+  bodie
+contributor:
+  contributor:
+    agent_name: Quick, Robert Hebert
+    alias: Quick, R. H. (Robert Hebert)
+    birthdate: 1831
+    deathdate: 1891
+    gutenberg_agent_id: '51158'
+    url: http://www.gutenberg.org/2009/agents/51158
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Hebert_Quick
+creator:
+  author:
+    agent_name: Mulcaster, Richard
+    deathdate: 1611
+    gutenberg_agent_id: '51665'
+    url: http://www.gutenberg.org/2009/agents/51665
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Mulcaster
+description: ''
+gutenberg_issued: '2020-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Education -- Early works to 1800'
+- GITenberg
+title: Positions
+url: http://www.gutenberg.org/ebooks/62025
