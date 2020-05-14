@@ -1,5 +1,5 @@
 _repo: Positions_62025
-_version: 0.1.0
+_version: 0.2.0
 alternative_title:
 - Positions wherin those primitive circumstances be examined, which are necessary
   for the training up of children, either for skill in their book, or health in their
@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '51158'
     url: http://www.gutenberg.org/2009/agents/51158
     wikipedia: https://en.wikipedia.org/wiki/Robert_Hebert_Quick
+covers:
+- cover_type: archival
+  image_path: 62025-h/images/cover.jpg
 creator:
   author:
     agent_name: Mulcaster, Richard
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51665
     wikipedia: https://en.wikipedia.org/wiki/Richard_Mulcaster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62025#Positions
 gutenberg_issued: '2020-05-04'
 gutenberg_type: Text
 identifiers:
